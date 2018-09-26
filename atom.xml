@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-26T02:10:44.200Z</updated>
+  <updated>2018-09-26T11:25:16.739Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,69 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>斐波那契公约数</title>
+    <link href="http://yoursite.com/2018/09/26/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E5%85%AC%E7%BA%A6%E6%95%B0/"/>
+    <id>http://yoursite.com/2018/09/26/斐波那契公约数/</id>
+    <published>2018-09-26T10:05:33.000Z</published>
+    <updated>2018-09-26T11:25:16.739Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;script type=&quot;text/javascript&quot; src=&quot;http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot;&gt;&lt;br&gt;&lt;/script&gt;&lt;br&gt;题目链接:&lt;a href=&quot;https://www.luogu.org/problemnew/show/P1306&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷P1306&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;题目描述&lt;/strong&gt;&lt;br&gt;　　对于Fibonacci数列：1,1,2,3,5,8,13……大家应该很熟悉吧~~~但是现在有一个很“简单”问题：第n项和第m项的最大公约数是多少？
+    
+    </summary>
+    
+      <category term="OI" scheme="http://yoursite.com/categories/OI/"/>
+    
+      <category term="Sulotions" scheme="http://yoursite.com/categories/OI/Sulotions/"/>
+    
+    
+      <category term="斐波那契" scheme="http://yoursite.com/tags/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>斐波那契数列</title>
+    <link href="http://yoursite.com/2018/09/26/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97/"/>
+    <id>http://yoursite.com/2018/09/26/斐波那契数列/</id>
+    <published>2018-09-26T09:29:13.000Z</published>
+    <updated>2018-09-26T11:44:18.856Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;斐波那契数列(Fibonacci sequence)&lt;/strong&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="OI" scheme="http://yoursite.com/categories/OI/"/>
+    
+    
+      <category term="斐波那契" scheme="http://yoursite.com/tags/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91/"/>
+    
+      <category term="数论" scheme="http://yoursite.com/tags/%E6%95%B0%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
     <title>New start</title>
     <link href="http://yoursite.com/2018/09/25/New-start/"/>
     <id>http://yoursite.com/2018/09/25/New-start/</id>
     <published>2018-09-25T12:28:24.000Z</published>
-    <updated>2018-09-26T02:10:44.200Z</updated>
+    <updated>2018-09-26T09:25:03.889Z</updated>
     
     <summary type="html">
+    
+      
+      
+        &lt;p&gt;终于算是搭好了博客，想来想去，还是写点东西纪念一下。&lt;/p&gt;
+&lt;p&gt;虽然其实就那样吧，但依然感到了些许雀跃。&lt;/p&gt;
+&lt;p&gt;细节可以慢慢改，&lt;/p&gt;
+&lt;p&gt;，，其实也基本是照搬别人的样式&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;谨以记之&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https
+      
     
     </summary>
     
